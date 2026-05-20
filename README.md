@@ -79,3 +79,6 @@ I am currently improving my skills in full-stack development, software testing, 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=120&section=footer" />
 </p>
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D GitHub Profile" />
+</p>
